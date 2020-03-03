@@ -99,6 +99,10 @@ class SpringBootMybitsPlusApplicationTests {
 		 * qw4.eq("stupwd", input.nextLine());
 		 * System.out.println(stuBiz.findStudentOne(qw4));
 		 */
+		/**
+		 * 
+		 */
+		
 	}
 
 }
